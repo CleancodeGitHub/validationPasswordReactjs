@@ -1,0 +1,26 @@
+/* Table of Content
+==================================================
+  PART 1
+  -Form 
+  - The goal is  validate inputs easily by using React’s state , simple password validator. This will be a password  input that requires the user to enter a password that is at least 4 characters long. If the user enters a password that is less than 4 chara... a small warning message will be displayed.
+  -To complete this task I used:
+   Html
+    - React.js
+     - semantic-ui-react-
+     - Css script.
+*/
+
+
+/* Google fonts & font family : Nunito', sans-serif.
+==================================================*/
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #384047;
+  font-size: 16px;
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 67%, rgba(0, 212, 255, 1) 100%);
+  padding: 40px;
+  margin-top: 55px;
+  color:#dd1212;
+  margin-top: 55px;
+ }
+
